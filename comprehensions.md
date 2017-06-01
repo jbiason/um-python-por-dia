@@ -39,7 +39,7 @@ Além de list comprehensions, existe ainda dictionary comprehensions:
 
 ```
 [{record['key']: record['value'] for record in list_of_dicts}
-``````
+```
 
 ... vai gerar um dicionário pegando a chave 'key' de list_of_dicts que vai
 servir de chave e 'value' para ser o valor do dicionário.
