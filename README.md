@@ -1,3 +1,6 @@
-# My Awesome Book
+# Um Python Por Dia
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Assim como aconteceu com [Um Vim Por Dia](https://juliobiason.gitbooks.io/um-vim-por-dia/content/),
+ me foi pedido para passar algumas dicas de Python.
+
+E, assim como no livro anterior, esse é uma coletanea dessas dicas.
