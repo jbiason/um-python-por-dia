@@ -5,3 +5,4 @@
 * [Generators](generators.md)
 * [NamedTuples](namedtuples.md)
 * [Slots](slots.md)
+* [Set Comprehensions](setcomprehensions.md)
