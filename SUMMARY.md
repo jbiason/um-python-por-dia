@@ -7,3 +7,5 @@
 * [Slots](slots.md)
 * [Set Comprehensions](setcomprehensions.md)
 * [Properties](properties.md)
+* [Atributos cache](properties_cache.md)
+* [Cache de funções](lru_cache.md)
